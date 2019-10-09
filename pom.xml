@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.fasttrackit</groupId>
-  <artifactId>madison-island-cucumber-test</artifactId>
+  <artifactId>Intempos</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>madison-island-cucumber-test</name>
+  <name>Intempos</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -116,3 +116,4 @@
     </plugins>
   </build>
 </project>
+

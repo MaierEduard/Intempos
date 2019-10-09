@@ -9,5 +9,8 @@
         <module name="Intempos" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Intempos" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
