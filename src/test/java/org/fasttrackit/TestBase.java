@@ -46,7 +46,7 @@ public class TestBase {
                 System.out.println("wait interapted.  " + e.getMessage());
             }
             timeOutMillis -= waitTime;
-            System.out.println("Waiting for page to load. Remaining millis" + timeOutMillis);
+//            System.out.println("Waiting for page to load. Remaining millis" + timeOutMillis);
         }
         while (
                 timeOutMillis > 0 && !((JavascriptExecutor) driver).executeScript("return document.readyState").equals("complete"));
